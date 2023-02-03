@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #feffcb;
+  --secondary-color: #827618;
+  --accent-color: #f30404;
+  --header-font: "times";
+  --written-font: "times";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
